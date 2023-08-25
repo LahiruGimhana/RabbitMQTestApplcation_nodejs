@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "amqp": "^0.2.7",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  },
+  "name": "rabbitmqnodejs",
+  "version": "1.0.0",
+  "main": "send.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node send.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
